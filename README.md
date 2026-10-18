@@ -1,6 +1,6 @@
 # Matematika Sistem Kendali - Fuzzy Inference System
 
-Repository ini berisi simulasi FIS untuk kasus "Pabrik Kaleng Makanan ABC
+Repository ini berisi simulasi FIS untuk kasus "Pabrik Kaleng Makanan ABC"
 
 ## Identitas Mahasiswa
 
